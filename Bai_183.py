@@ -27,3 +27,8 @@ lst = []
 n = int(input('Nhập số lượng phần tử của List: '))
 print('List sau khi đc tạo: ', Tao_Lst(lst, n))
 print('List con toàn dương dài nhất trong List: ', Ktra_Dai(lst))
+
+print('Loc dep trai vai dai')
+print('Cuoc song nay chi co lam thi moi co an')
+print('Khong lam ma doi co an thi chi an dau bua, an cam.')
+print('You have my word...')
